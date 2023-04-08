@@ -52,7 +52,19 @@ Install Drivers / Rules
 Windows Driver Installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Flashing development boards via the USB bootloader requires that WinUSB drivers are loaded for that device.
+Flashing development boards via a WCH-Link(E) probe (and SWCLK and/or SWDIO connection) requires that W.CH's USB drivers for that are installed.
+
+1. Download the `WCHLink Driver Windows <https://github.com/Community-PIO-CH32V/wchlink-driver-windows/archive/refs/heads/main.zip>`__ package
+2. Unpack it
+3. Run :code:`WCHLink\\SETUP.EXE` and follow installation instructions
+4. Run :code:`WCHLinkSER\\SETUP.EXE` and follow installation instructions
+
+If successful, once you plug in the WCH-Link(E) device, you should have a "serial port" and "inteface" type device in the Windows device manager.
+
+.. image:: img/wchlink_driver.png
+
+Flashing development boards via their built-in USB bootloader requires that WinUSB drivers are loaded for that device.
+
 
 1. Download `Zadig <https://zadig.akeo.ie/>`__
 2. Start Zadig and activate Options → List All Devices
