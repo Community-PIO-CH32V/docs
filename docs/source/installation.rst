@@ -59,7 +59,7 @@ Flashing development boards via a WCH-Link(E) probe (and SWCLK and/or SWDIO conn
 3. Run :code:`WCHLink\\SETUP.EXE` and follow installation instructions
 4. Run :code:`WCHLinkSER\\SETUP.EXE` and follow installation instructions
 
-If successful, once you plug in the WCH-Link(E) device, you should have a "serial port" and "inteface" type device in the Windows device manager.
+If successful, once you plug in the WCH-Link(E) device, you should have a "serial port" and "interface"-type device in the Windows device manager.
 
 .. image:: img/wchlink_driver.png
 
