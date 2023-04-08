@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PIO CH32V'
+copyright = '2023, Community-PIO-CH32V'
+author = 'Community-PIO-CH32V'
 
 release = '0.1'
 version = '0.1.0'

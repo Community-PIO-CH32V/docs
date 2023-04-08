@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to the PlatformIO CH32V Documentation! 
+==============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The PlatformIO CH32V project intends to provide an easy way for developing
+firmwares for various W.CH RISC-V based chips. It easily integrates into 
+VSCode and other IDEs thanks to PlatformIO and can be used cross-platform.
 
 .. note::
 
@@ -18,5 +14,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   installation
+   board selection
+   none os sdk
