@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+CH32V Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub project is the source code for the documentation site
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://pio-ch32v.readthedocs.io/en/latest/
