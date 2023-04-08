@@ -1,8 +1,17 @@
 Installation
 ============
 
-First Time Setup
-----------------
+Install VSCode
+--------------
+
+Install PlatformIO
+------------------
+
+Install CH32V Platform
+----------------------
+
+Install Drivers / Rules
+-----------------------
 
 Windows Driver Installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~

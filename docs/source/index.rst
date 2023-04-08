@@ -15,5 +15,14 @@ Contents
 .. toctree::
 
    installation
+   quick start for development boards
    board selection
+   building
+   uploading
+   debugging
    none os sdk
+   freertos
+   harmony liteos
+   rt thread
+   tenctentos
+   examples
