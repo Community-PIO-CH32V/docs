@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     "sphinxcontrib.jquery",
+    'sphinx_copybutton',
 ]
 
 intersphinx_mapping = {
