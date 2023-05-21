@@ -1,7 +1,7 @@
 None OS SDK
 ===========
 
-When building with ``framework = none-os-sdk``, several build options are available for the ``platformio.ini``.
+When building with ``framework = noneos-sdk``, several build options are available for the ``platformio.ini``.
 
 Link Time Optimization (LTO)
 ----------------------------
