@@ -20,6 +20,7 @@ Contents
    building
    uploading
    debugging
+   general build options
    none os sdk
    freertos
    harmony liteos
