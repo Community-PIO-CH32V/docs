@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PIO CH32V'
-copyright = '2023, Community-PIO-CH32V'
+copyright = '2025, Community-PIO-CH32V'
 author = 'Community-PIO-CH32V'
 
 release = '0.1'
