@@ -20,6 +20,7 @@ Contents
    building
    uploading
    debugging
+   clock source configuration
    general build options
    none os sdk
    freertos
